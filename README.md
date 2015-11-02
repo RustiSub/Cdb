@@ -122,6 +122,7 @@ CultureFeed_Cdb_Item_Event::getCdbId() or set with CultureFeed_Cdb_Item_Event::s
 CultureFeed_Cdb_Item_Event::getExternalId() and CultureFeed_Cdb_Item_Event::setExternalId()
 should be exclusively used to retrieve and set the external ID of an event, NOT the CdbId.
 
+
 [composer]: http://getcomposer.org
 [packagist]: https://packagist.org/packages/cultuurnet/cdb
 [psr-0]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md
